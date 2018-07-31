@@ -21,8 +21,20 @@ The Fruit is  Yellow
 48  x  17  =  816
 196523  x  87323  =  17160977929
 
+## Devnet Lab - Intro to Python - Part 2 [3]   (31/7/2018)
+- Run "bblevel1_part2_fortune_cookie.py"
+#### Output:
+$ python3 bblevel1_part2_fortune_cookie.py 
+Get your fortune cookie
+How many lucky numbers would you like? : 2
+
+Here is your fortune:
+
+Keep trying, next time may work
+Lucky Numbers: [261, 167]
 
 
 Sources:
-[1] https://github.com/Devanampriya/BB_Level1/blob/master/Assignment.md
-[2] https://learninglabs.cisco.com/tracks/devnet-beginner/intro-python/intro-python-part1/step/6
+- [1] https://github.com/Devanampriya/BB_Level1/blob/master/Assignment.md
+- [2] https://learninglabs.cisco.com/tracks/devnet-beginner/intro-python/intro-python-part1/step/6
+- [3] https://learninglabs.cisco.com/tracks/devnet-beginner/intro-python/intro-python-part2/step/7
