@@ -33,8 +33,19 @@ Here is your fortune:
 Keep trying, next time may work
 Lucky Numbers: [261, 167]
 
+## Devnet Lab - Json Intro - [4]   (31/7/2018)
+- Run "bblevel1_nested_data.py" 
+- Input file: bblevel1_interfaces.json
+#### Output:
+$ python3 bblevel1_nested_data.py 
+<path>/cisco-bb
+GigabitEthernet1 : 198.18.134.11 255.255.192.0
+GigabitEthernet2 : 172.16.255.1 255.255.255.0
+Loopback0 : 10.0.0.1 255.255.255.255
+
 
 Sources:
 - [1] https://github.com/Devanampriya/BB_Level1/blob/master/Assignment.md
 - [2] https://learninglabs.cisco.com/tracks/devnet-beginner/intro-python/intro-python-part1/step/6
 - [3] https://learninglabs.cisco.com/tracks/devnet-beginner/intro-python/intro-python-part2/step/7
+- [4] https://learninglabs.cisco.com/tracks/devnet-beginner/intro-python/parsing-json-python/step/4
